@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">psloader</string>
+
+    <string name="desc">Автор приложения не несет никакой ответственности за то, что вы делаете со своими девайсами. Все что Вы делаете, Вы делаете на свой страх и риск!\nТОЛЬКО ДЛЯ ПРОШИВОК 9.00</string>
+
+    <string name="fetching_exploit">Клонирование эксплоита...</string>
+    <string name="error_fetching_exploit">Произошла ошибка при клонировании...</string>
+
+    <string name="fetching_payload">Скачивание hen...</string>
+    <string name="fetching_payload_not_found">Файл не найден...</string>
+    <string name="fetching_payload_io_exception">Ошибка при скачивании hen...</string>
+
+    <string name="start_server">Запуск сервера...</string>
+
+    <string name="connection_detected">Найдено соединение.\nАктивируйте эксплоит\nи загрузите hen....</string>
+
+    <string name="try_send">Загрузить hen на %s:%s</string>
+
+    <string name="go_to">Перейдите по адресу\nhttp://%s:%s\nна консоли.\n\nОжидание подключения...</string>
+
+    <string name="address_not_found">Локальный адрес не найден...</string>
+
+</resources>

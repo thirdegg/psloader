@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">psloader</string>
+
+    <string name="desc">The author of the application does not bear any responsibility for what you do with your devices. Everything that you do, you do at your own peril and risk!\nONLY FOR FIRMWARE 9.00</string>
+
+    <string name="fetching_exploit">Fetching exploit...</string>
+    <string name="error_fetching_exploit">Exception occurred while cloning repo...</string>
+
+    <string name="fetching_payload">Fetching payload...</string>
+    <string name="fetching_payload_not_found">Payload not found...</string>
+    <string name="fetching_payload_io_exception">Fetching payload IO exception...</string>
+
+    <string name="start_server">Start server...</string>
+
+    <string name="connection_detected">Connection detected.\nNow activate exploit and send payload....</string>
+
+    <string name="try_send">Send payload to %s:%s</string>
+
+    <string name="go_to">Go to\nhttp://%s:%s in your console.\n\nWaiting connection...</string>
+
+    <string name="address_not_found">Address not found...</string>
+
+    <string name="exploit_url">https://github.com/ChendoChap/pOOBs4.git</string>
+    <string name="payload_url">https://github.com/GoldHEN/GoldHEN/raw/master/goldhen_2.0b_900.bin</string>
+
+</resources>
